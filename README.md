@@ -2,6 +2,8 @@
 
 This python streamlit web app can perform Geo localisation of places indicating latitude and longitude coordinates in world map
 
+To run this streamlit application use streamlit run appname.py --global.dataFrameSerialization="legacy" to avoid arrow pointer issue
+
 The user can input upto 10 places by means of tags in streamlit as shown below which is stored as a python list
 
 <img width="538" alt="geoloc places list" src="https://github.com/blockchainamm/blockchainamm/assets/82846751/9494a1d5-5932-4f22-8880-6b84b83a67a8">
